@@ -1,0 +1,15 @@
+
+                                                  HISTORIA DE USUARIO 
+                 JEFE
+Como jefe de la empresa Quiero consultar y gestionar la información de mis empleados Para tener control y visualidad a mi equipo de trabajo.
+CRITERIOS DE ACEPTACION
+	El jefe tiene derecho al acceso de la lista de empleados
+	El jefe podrá modificar los datos de contacto de celular de un empleado
+	El jefe podrá borrar y eliminar a cualquier empleado
+           EMPLEADO
+Como empleado de la empresa Quiero acceder a mis datos y poder operar las máquinas y visualizar productos Para realizar correctamente mis tareas dentro de la empresa. 
+CRITERIOS DE ACEPTACIÓN: 
+	El empleado debe poder ver su código. 
+	El empleado debe poder actualizar su código si es necesario. 
+	El empleado puede operar una maquina en el sistema. 
+	El empleado puede visualizar productos disponibles. 
